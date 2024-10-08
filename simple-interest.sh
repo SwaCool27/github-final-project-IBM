@@ -33,10 +33,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
+# Author: (IBM)
 # Additional Authors:
-
-# <your GitHub username>
+# <SwaCool27>
 
 # Input:
 # p, principal amount
